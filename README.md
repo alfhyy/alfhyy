@@ -1,6 +1,7 @@
 # 💫 About Me:
 
-- ⚡ Enthusiastic comp-sci student<br>- 🔭 I’m currently working on React<br>
+- ⚡ Enthusiastic comp-sci student<br>
+- 🔭 I’m currently working on React<br>
 
 ## 🌐 Socials:
 
