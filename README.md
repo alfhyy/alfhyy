@@ -2,6 +2,7 @@
 
 - ⚡ Enthusiastic comp-sci student<br>
 - 🔭 I’m currently working on React<br>
+- 🔭 I’m currently gooning to nym<br>
 
 ## 🌐 Socials:
 
